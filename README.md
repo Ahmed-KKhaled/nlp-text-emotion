@@ -53,18 +53,18 @@ A transformer-based model pre-trained on massive amounts of text. Understands co
 ### BERT
 | Model | F1 Score |
 |-------|----------|
-| BERT | **82.4%** ✅ |
+| BERT | **82.4%** |
 
 ---
 
 ## 🔍 Model Comparison
 | Sentence                         | ML Prediction | LSTM Prediction | BERT Prediction |
 |----------------------------------|--------------|----------------|----------------|
-| I'm done                         | Anger        | Sadness        | Sadness ✅     |
-| I can't believe this happened    | Joy          | Anger          | Joy ✅         |
-| This is the worst day ever       | Sadness      | Sadness        | Sadness ✅     |
-| I am so excited for this         | Joy          | Joy            | Joy ✅         |
-| Why would you do this?           | Anger        | Anger          | Anger ✅       |
+| I'm done                         | Anger        | Sadness        | Sadness     |
+| I can't believe this happened    | Joy          | Anger          | Joy        |
+| This is the worst day ever       | Sadness      | Sadness        | Sadness     |
+| I am so excited for this         | Joy          | Joy            | Joy         |
+| Why would you do this?           | Anger        | Anger          | Anger       |
 
 ---
 ## 📉 Confusion Matrix (Analysis)
