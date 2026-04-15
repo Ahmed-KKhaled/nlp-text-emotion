@@ -74,7 +74,7 @@ A transformer-based model pre-trained on massive amounts of text. Understands co
 
 **Key Observations**:
 - Sadness vs Anger → Most confusion across models
-- Fear sometimes misclassified as Sadness
+- Nuetral sometimes misclassified as Joy
 - BERT shows better separation between similar emotions
 
 ## 🔍 Why BERT is Better?
