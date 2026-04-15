@@ -56,6 +56,8 @@ A transformer-based model pre-trained on massive amounts of text. Understands co
 | BERT | **82.4%** ✅ |
 
 ---
+
+## 🔍 Model Comparison
 | Sentence                         | ML Prediction | LSTM Prediction | BERT Prediction |
 |----------------------------------|--------------|----------------|----------------|
 | I'm done                         | Anger        | Sadness        | Sadness ✅     |
@@ -63,6 +65,17 @@ A transformer-based model pre-trained on massive amounts of text. Understands co
 | This is the worst day ever       | Sadness      | Sadness        | Sadness ✅     |
 | I am so excited for this         | Joy          | Joy            | Joy ✅         |
 | Why would you do this?           | Anger        | Anger          | Anger ✅       |
+
+---
+## 📉 Confusion Matrix (Analysis)
+
+<img width="610" height="532" alt="WhatsApp Image 2026-04-15 at 11 07 42" src="https://github.com/user-attachments/assets/c24b0ec9-0336-458f-8102-9219d3260c3a" />
+
+
+**Key Observations**:
+- Sadness vs Anger → Most confusion across models
+- Fear sometimes misclassified as Sadness
+- BERT shows better separation between similar emotions
 
 ## 🔍 Why BERT is Better?
 - **Pre-trained on massive data:** BERT was trained on billions of words, so it already understands language deeply before fine-tuning.
