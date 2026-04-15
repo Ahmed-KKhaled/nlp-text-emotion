@@ -56,10 +56,13 @@ A transformer-based model pre-trained on massive amounts of text. Understands co
 | BERT | **82.4%** ✅ |
 
 ---
-## 🔍 Model Comparison (Example Predictions)
-Sentence	ML Prediction	LSTM Prediction	BERT Prediction
-**"I'm done"**	Anger	Sadness	Sadness ✅
-**"I can't believe this happened"**	Joy	Anger	Joy ✅
+| Sentence                         | ML Prediction | LSTM Prediction | BERT Prediction |
+|----------------------------------|--------------|----------------|----------------|
+| I'm done                         | Anger        | Sadness        | Sadness ✅     |
+| I can't believe this happened    | Joy          | Anger          | Joy ✅         |
+| This is the worst day ever       | Sadness      | Sadness        | Sadness ✅     |
+| I am so excited for this         | Joy          | Joy            | Joy ✅         |
+| Why would you do this?           | Anger        | Anger          | Anger ✅       |
 
 ## 🔍 Why BERT is Better?
 - **Pre-trained on massive data:** BERT was trained on billions of words, so it already understands language deeply before fine-tuning.
