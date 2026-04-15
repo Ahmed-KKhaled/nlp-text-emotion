@@ -92,3 +92,10 @@ A transformer-based model pre-trained on massive amounts of text. Understands co
 - Linear SVC
 - LSTM (PyTorch)
 - BERT `bert-base-uncased` (HuggingFace Transformers)
+
+## - 🛠️ Technologies Used
+- Python
+- Scikit-learn
+- PyTorch
+- HuggingFace Transformers
+- NumPy / Pandas
