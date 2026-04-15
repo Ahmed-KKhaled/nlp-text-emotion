@@ -34,9 +34,7 @@ This project explores how different model architectures handle this complexity.
 - **Number of Classes:** 5  
 - **Labels:** joy, sadness, anger, fear, neutral  
 - **Total Samples:** ~10,000  
-- **Data Type:** Short text messages and dialogue utterances   
-- آع
-
+- **Data Type:** Short text messages and dialogue utterances
 ## 🧪 Approach
 Three different approaches were implemented and compared:
 
