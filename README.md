@@ -31,8 +31,10 @@ This project explores how different model architectures handle this complexity.
 - [Emotion-Stimulus](https://www.site.uottawa.ca/~diana/resources/emotion_stimulus_data/)
 
 🔗 Combined Dataset Link: (https://github.com/Ahmed-KKhaled/nlp-text-emotion/tree/main/Text_Emotion_project/data)
-- Number of classes: 5 (joy, sadness, fear, anger, neutral)
-- Number of Samples = 10k samples
+- **Number of Classes:** 5  
+- **Labels:** joy, sadness, anger, fear, neutral  
+- **Total Samples:** ~10,000  
+- **Data Type:** Short text messages and dialogue utterances   
 - آع
 
 ## 🧪 Approach
