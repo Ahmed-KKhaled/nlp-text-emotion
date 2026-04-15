@@ -69,7 +69,8 @@ A transformer-based model pre-trained on massive amounts of text. Understands co
 ---
 ## 📉 Confusion Matrix (Analysis)
 
-<img width="610" height="532" alt="WhatsApp Image 2026-04-15 at 11 07 42" src="https://github.com/user-attachments/assets/c24b0ec9-0336-458f-8102-9219d3260c3a" />
+<img width="1440" height="726" alt="WhatsApp Image 2026-04-15 at 11 28 10" src="https://github.com/user-attachments/assets/0e86300c-b010-4b48-87ca-9284d9efc8f2" />
+
 
 
 **Key Observations**:
