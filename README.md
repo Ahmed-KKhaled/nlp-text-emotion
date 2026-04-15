@@ -19,7 +19,7 @@ This project explores how different model architectures handle this complexity.
 ---
 📂 Dataset
 
-🔗 Dataset Link: [(Add your dataset link here)](https://github.com/Ahmed-KKhaled/nlp-text-emotion/tree/main/Text_Emotion_project/data)
+🔗 Dataset Link: (https://github.com/Ahmed-KKhaled/nlp-text-emotion/tree/main/Text_Emotion_project/data)
 Number of classes: 5 (joy, sadness, fear, anger, neutral)
 
 ## 🧪 Approach
