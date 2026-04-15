@@ -96,6 +96,6 @@ A transformer-based model pre-trained on massive amounts of text. Understands co
 ## - 🛠️ Technologies Used
 - Python
 - Scikit-learn
-- PyTorch
+- Tensorflow
 - HuggingFace Transformers
 - NumPy / Pandas
