@@ -27,9 +27,8 @@ This project explores how different model architectures handle this complexity.
 | Emotion-Stimulus  | 2015 | Dialogues            | 2.5k sentences  | sadness, joy, anger, fear, surprise, disgust                                       | No       |
 | ISEAR             | 1990 | Emotional Situations | 7.5k sentences  | joy, fear, anger, sadness, disgust, shame, guilt                                   | Yes      |
 ### 🔗 Dataset Links
-- [DailyDialog]([DailyDialog](http://ww38.yanran.li/dailydialog.html))
-- [Emotion-Stimulus]([Emotion-Stimulus](https://www.site.uottawa.ca/~diana/resources/emotion_stimulus_data/))
-- [ISEAR](PUT_LINK_HERE)
+- [DailyDialog]((http://ww38.yanran.li/dailydialog.html))
+- [Emotion-Stimulus]((https://www.site.uottawa.ca/~diana/resources/emotion_stimulus_data/))
 
 🔗 Combined Dataset Link: (https://github.com/Ahmed-KKhaled/nlp-text-emotion/tree/main/Text_Emotion_project/data)
 - Number of classes: 5 (joy, sadness, fear, anger, neutral)
