@@ -105,5 +105,6 @@ A transformer-based model pre-trained on massive amounts of text. Understands co
 - Python
 - Scikit-learn
 - Tensorflow
+- PyTorch
 - HuggingFace Transformers
 - NumPy / Pandas
