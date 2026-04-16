@@ -1,11 +1,6 @@
 # nlp-text-emotion
 This project compares three different approaches for emotion detection in text: Traditional Machine Learning, LSTM, and BERT. The goal is to classify text into five emotions (joy, sadness, fear, anger, neutral) and evaluate the performance of each model to determine the most effective approach.
 
-# Emotion Detection: ML vs LSTM vs BERT
-
-A comparison between three different approaches for emotion detection in text, classifying into five emotions: **joy, sadness, fear, anger, and neutral**.
-
----
 
 ## 📌 Problem Statement
 Understanding human emotions from text is a challenging NLP task. Unlike simple sentiment analysis (positive/negative), emotion detection requires the model to distinguish between fine-grained emotional states. The challenge lies in the fact that different emotions can be expressed in very similar ways, and the same sentence can carry different emotions depending on context.
